@@ -53,3 +53,5 @@ model.fit(
     validation_data=validation_generator,
     validation_steps=50
 )
+```
+The model has the accuracy of *90%*.
